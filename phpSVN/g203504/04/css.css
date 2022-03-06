@@ -1,0 +1,8 @@
+form {width:50%; background: linear-gradient(#E3E3FF,#B9B9FF); margin-left: 25%; border-radius: 15px 0px;}
+form select {width : 90%; margin-left: 5%; margin-bottom: 10px; margin-top: 30px; text-align: center; background-color: #EBEBFF;}
+form input {margin-bottom: 10px; margin-left: 5%; width : 90%; text-align: center;background-color: #EBEBFF;}
+form button {margin-left: 5%;width : 90%; margin-bottom: 10px; background-color:  #9F9FFF; }
+form div {width : 90%; margin-left: 5%; margin: 0; padding: 0;}
+form div input {width : 30%; background-color: #C1D4ED;}
+form p {text-align: center;margin-bottom: 30px; padding-bottom: 30px;}
+body {padding-top: 50px; background-color:  #F0F0FF;}

@@ -1,0 +1,15 @@
+body {padding-top: 50px; background-color:  #F0F0FF;}
+form {width: auto; display: inline-block; padding:3px; 
+      background: linear-gradient(#E3E3FF,#B9B9FF);
+      border: 3pt solid #9F9FFF; margin:10pt; 
+      border-radius:5px; position:relative;}
+form select {width: 90%; margin: 5pt 5%; background-color: #D8D8FF;}
+form {font-size: 35pt;}
+
+select {cursor: pointer;}
+
+td.red {background-color: red;}
+td.pink {background-color: #9F9FFF;}
+td.grey {background-color: #D8D8FF;}
+td.purple {background-color: #8080ff;}
+td.green {background-color: green !important;}

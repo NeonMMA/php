@@ -1,0 +1,41 @@
+* {border-collapse: collapse;}
+body {padding-top: 50px; background-color:  #F0F0FF;}
+form {display: inline-block;}
+form input {width: 90%; margin: 5pt 5%; background-color: #EBEBFF;}
+
+
+
+div.mess {width:60%; float: left; border: 2pt solid #9F9FFF; border-radius: 15px; padding-top: 25pt;}
+div.mess p {margin-left: 10pt;text-align: center;}
+div.mess div.message p {text-align: left;}
+
+hr {color: #9F9FFF; margin-top: 30pt;}
+
+form.sender {width:100%; margin-bottom: 5pt; margin-top: 5pt; border:0;}
+form textarea {width:90%;margin: 5pt 5%; resize: none;  background-color: #EBEBFF;}
+form button {width: 90%; margin: 5pt 5%;  background-color:  #9F9FFF; }
+
+div.message time form {border:0pt; }
+img {width:8pt; height: 10pt; float: right;}
+div.message p {margin-left: 10pt; margin-top: 10pt;}
+
+.message {padding:3px;  background: linear-gradient(#E3E3FF,#B9B9FF); border: 2pt solid #9F9FFF; margin:10pt; border-radius:5px; position:relative;}
+
+time button {background-color: transparent; border:0pt;}
+
+time{color:#666; font-size:12pt; width:90%;margin-left: 8pt;}
+.in{position:relative; left:20pt; margin-right:100pt;}
+.out{margin-left:100pt; margin-right:20pt; background-color: linear-gradient(#E3E3FF,#B9B9FF); border:2pt solid #9F9FFF;}
+
+
+div.select {width:100%; float: left;}
+div.select form {width:100%; }
+div.select form p {text-align: center;}
+div.select form div {width:auto; margin: auto; height: 30pt;}
+div.select form button {width: 25pt; float: left; margin: 5pt; background-color: transparent; border: 0pt; color: blue;}
+
+form.form {width:30%; float: right; border-radius: 15px; border: 2pt solid #9F9FFF;}
+form.form input[type="checkbox"]{width:auto;}
+form.form p {margin-left: 10pt;}
+
+button {cursor: pointer;}

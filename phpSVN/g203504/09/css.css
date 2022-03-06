@@ -1,0 +1,9 @@
+table {border: 2.5pt groove black; width:250pt;}
+table tr td {border: 0pt;}
+table tr td table {border: 0; border-collapse: collapse; width: 100%;}
+table tr td table tr {border: 0pt; width: 100%;}
+table tr td table tr td {border: 1pt solid black;}
+tr.str{border-collapse: collapse;}
+td.first{width: 50%;}
+td.second{width: 25%;}
+td.third {width: 25%;}

@@ -1,0 +1,1 @@
+a:2:{s:5:"login";a:4:{s:5:"login";s:5:"login";s:4:"name";s:4:"name";s:4:"pass";s:32:"5f4dcc3b5aa765d61d8327deb882cf99";s:6:"status";s:5:"admin";}s:3:"log";a:4:{s:5:"login";s:3:"log";s:4:"name";s:6:"notadm";s:4:"pass";s:32:"1a1dc91c907325c69271ddf0c944bc72";s:6:"status";s:4:"user";}}
